@@ -6,3 +6,6 @@ Carrucel
 
 ## Primaria
 Rafael Ramirez
+
+## Secundaria
+Colegio Isabel la Catolica
