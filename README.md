@@ -9,3 +9,6 @@ Rafael Ramirez
 
 ## Secundaria
 Colegio Isabel la Catolica
+
+## Preparatoria
+Colegio Nacional de Educacion Profesional Tecnica 
